@@ -1,0 +1,854 @@
+__label__1	A stupid , derivative horror film that substitutes extreme gore for suspense .
+__label__2	The rollerball sequences feel sanitised and stagey .
+__label__2	Roman Polanski directs The Pianist like a surgeon mends a broken heart ; very meticulously but without any passion .
+__label__3	Nothing more than a run-of-the-mill action flick .
+__label__3	Lan Yu is certainly a serviceable melodrama , but it does n't even try for the greatness that Happy Together shoots for ( and misses ) .
+__label__2	This is an action movie with an action icon who 's been all but decommissioned .
+__label__2	Even if it is generally amusing from time to time , I Spy has all the same problems the majority of action comedies have .
+__label__2	Much like Robin Williams , Death to Smoochy has already reached its expiration date .
+__label__1	An annoying orgy of excess and exploitation that has no point and goes nowhere .
+__label__1	A tired , unnecessary retread ... a stale copy of a picture that was n't all that great to begin with .
+__label__3	An often unfunny romp .
+__label__2	A worthy idea , but the uninspired scripts , acting and direction never rise above the level of an after-school TV special .
+__label__3	Twenty years later , Reggio still knows how to make a point with poetic imagery , but his ability to startle has been stifled by the very prevalence of the fast-forward technology that he so stringently takes to task .
+__label__2	Ear-splitting exercise in formula crash-and-bash action .
+__label__3	We have an actor who is great fun to watch performing in a film that is only mildly diverting .
+__label__3	Despite Hoffman 's best efforts , Wilson remains a silent , lumpish cipher ; his encounters reveal nothing about who he is or who he was before .
+__label__3	There 's a thin line between likably old-fashioned and fuddy-duddy , and The Count of Monte Cristo ... never quite settles on either side .
+__label__1	The emotional overload of female angst irreparably drags the film down .
+__label__2	Schaefer 's ... determination to inject farcical raunch ... drowns out the promise of the romantic angle .
+__label__2	Like Showgirls and Glitter , the most entertaining moments here are unintentional .
+__label__2	While some of the camera work is interesting , the film 's mid-to-low budget is betrayed by the surprisingly shoddy makeup work .
+__label__3	The origin story is well told , and the characters will not disappoint anyone who values the original comic books .
+__label__2	It 's in the action scenes that things fall apart .
+__label__2	Impostor is a step down for director Gary Fleder .
+__label__1	Seagal , who looks more like Danny Aiello these days , mumbles his way through the movie .
+__label__2	The movie is a negligible work of manipulation , an exploitation piece doing its usual worst to guilt-trip parents .
+__label__2	Lacks dramatic punch and depth .
+__label__3	There are moments of real pleasure to be found in Sara Sugarman 's whimsical comedy Very Annie-Mary but not enough to sustain the film .
+__label__1	I can analyze this movie in three words : Thumbs Friggin ' Down .
+__label__2	Sadly , ` Garth ' has n't progressed as nicely as ` Wayne . '
+__label__1	Make like the title and dodge this one .
+__label__1	This is not one of the movies you 'd want to watch if you only had a week to live .
+__label__2	The first hour is tedious though Ford and Neeson capably hold our interest , but its just not a thrilling movie .
+__label__2	Here 's a case of two actors who do everything humanly possible to create characters who are sweet and believable , and are defeated by a screenplay that forces them into bizarre , implausible behavior .
+__label__3	It 's obvious ( Je-Gyu is ) trying for poetry ; what he gets instead has all the lyricism of a limerick scrawled in a public restroom .
+__label__3	Sweet Home Alabama is one dumb movie , but its stupidity is so relentlessly harmless that it almost wins you over in the end .
+__label__2	( Green is ) the comedy equivalent of Saddam Hussein , and I 'm just about ready to go to the U.N. and ask permission for a preemptive strike .
+__label__2	No amount of good acting is enough to save Oleander 's uninspired story .
+__label__1	A vile , incoherent mess ... a scummy ripoff of David Cronenberg 's brilliant ` Videodrome . '
+__label__2	Murphy and Wilson actually make a pretty good team ... but the project surrounding them is distressingly rote .
+__label__3	Despite its raucous intent , XXX is as conventional as a Nike ad and as rebellious as spring break .
+__label__1	Think The Lion King redone for horses , with fewer deliberate laughs , more inadvertent ones and stunningly trite songs by Bryan Adams , the world 's most generic rock star .
+__label__3	It is one more celluloid testimonial to the cruelties experienced by Southern blacks as distilled through a Caucasian perspective .
+__label__3	It 's tough being a black man in America , especially when the Man has taken away your car , your work-hours and denied you health insurance .
+__label__2	A small fortune in salaries and stunt cars might have been saved if the director , Tom Dey , had spliced together bits and pieces of Midnight Run and 48 Hours ( and , for that matter , Shrek ) .
+__label__1	An amateurish , quasi-improvised acting exercise shot on ugly digital video .
+__label__2	The holes in this film remain agape -- holes punched through by an inconsistent , meandering , and sometimes dry plot .
+__label__1	Would Benigni 's Italian Pinocchio have been any easier to sit through than this hastily dubbed disaster ?
+__label__3	Unofficially , National Lampoon 's Van Wilder is Son of Animal House .
+__label__2	Officially , it is twice as bestial but half as funny .
+__label__1	This is a fragmented film , once a good idea that was followed by the bad idea to turn it into a movie .
+__label__4	Mindless yet impressively lean spinoff of last summer 's bloated effects fest The Mummy Returns .
+__label__2	Halfway through the movie , the humor dwindles .
+__label__2	It 's replaced by some dramatic scenes that are jarring and deeply out of place in what could have ( and probably should have ) been a lighthearted comedy .
+__label__3	will be far more interesting to the Soderbergh faithful than it will be to the casual moviegoer who might be lured in by Julia Roberts ...
+__label__3	Authentic , and at times endearing , humorous , spooky , educational , but at other times as bland as a block of snow .
+__label__1	Control-Alt-Delete Simone as quickly as possible
+__label__2	Follows the original film virtually scene for scene and yet manages to bleed it almost completely dry of humor , verve and fun .
+__label__3	The filmmaker ascends , literally , to the Olympus of the art world , but he would have done well to end this flawed , dazzling series with the raising of something other than his own cremaster .
+__label__3	The screenplay comes across , rather unintentionally , as Hip-Hop Scooby-Doo .
+__label__2	Has lost some of the dramatic conviction that underlies the best of comedies ...
+__label__2	Vaguely interesting , but it 's just too too much .
+__label__1	... no charm , no laughs , no fun , no reason to watch .
+__label__1	A generic family comedy unlikely to be appreciated by anyone outside the under-10 set .
+__label__1	Kung Pow seems like some futile concoction that was developed hastily after Oedekerk and his fellow moviemakers got through crashing a college keg party .
+__label__2	Kurys seems intimidated by both her subject matter and the period trappings of this debut venture into the heritage business .
+__label__3	The film virtually chokes on its own self-consciousness .
+__label__2	A manipulative feminist empowerment tale thinly posing as a serious drama about spousal abuse .
+__label__4	Everything in Maid in Manhattan is exceedingly pleasant , designed not to offend .
+__label__4	It goes down easy , leaving virtually no aftertaste .
+__label__1	A profoundly stupid affair , populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility .
+__label__1	... pays tribute to heroes the way Julia Roberts hands out awards -- with phony humility barely camouflaging grotesque narcissism .
+__label__2	Time stands still in more ways that one in Clockstoppers , a sci-fi thriller as lazy as it is interminable .
+__label__1	As a director , Eastwood is off his game -- there 's no real sense of suspense , and none of the plot ` surprises ' are really surprising .
+__label__3	Eccentric enough to stave off doldrums , Caruso 's self-conscious debut is also eminently forgettable .
+__label__3	To work , love stories require the full emotional involvement and support of a viewer .
+__label__3	That is made almost impossible by events that set the plot in motion .
+__label__3	Although Barbershop boasts some of today 's hottest and hippest acts from the world of television , music and stand-up comedy , this movie strangely enough has the outdated swagger of a shameless ` 70s blaxploitation shuck-and-jive sitcom .
+__label__2	A puzzle whose pieces do not fit .
+__label__3	Some are fascinating and others are not , and in the end , it is almost a good movie .
+__label__2	Would that Greengrass had gone a tad less for grit and a lot more for intelligibility .
+__label__3	The good is very , very good ... The rest runs from mildly unimpressive to despairingly awful .
+__label__2	` Butterfingered ' is the word for the big-fisted direction of Jez Butterworth , who manages to blast even the smallest sensitivities from the romance with his clamorous approach .
+__label__1	Be forewarned , if you 're depressed about anything before watching this film , you may just end up trying to drown yourself in a lake afterwards .
+__label__1	a terrible adaptation of a play that only ever walked the delicate tightrope between farcical and loathsome .
+__label__2	In the wrong hands , i.e. Peploe 's , it 's simply unbearable
+__label__2	An inexperienced director , Mehta has much to learn .
+__label__1	A limp Eddie Murphy vehicle that even he seems embarrassed to be part of .
+__label__1	So muddled , repetitive and ragged that it says far less about the horrifying historical reality than about the filmmaker 's characteristic style .
+__label__2	A gushy episode of `` M * A * S * H '' only this time from an Asian perspective .
+__label__2	`` Looking For Leonard '' just seems to kinda sit in neutral , hoping for a stiff wind to blow it uphill or something .
+__label__2	Nothing more than four or five mild chuckles surrounded by 86 minutes of overly-familiar and poorly-constructed comedy .
+__label__4	Definitely in the guilty pleasure B-movie category , Reign of Fire is so incredibly inane that it is laughingly enjoyable .
+__label__2	Good-looking but relentlessly lowbrow outing plays like Clueless Does South Fork .
+__label__2	entertaining enough , but nothing new
+__label__2	... one resurrection too many .
+__label__2	This is a film about the irksome , tiresome nature of complacency that remains utterly satisfied to remain the same throughout .
+__label__2	Even as the hero of the story rediscovers his passion in life , the mood remains oddly detached .
+__label__3	DeMeo is not without talent ; he just needs better material .
+__label__2	In spite of featuring a script credited to no fewer than five writers , apparently nobody here bothered to check it twice .
+__label__1	No one involved , save Dash , shows the slightest aptitude for acting , and the script , credited to director Abdul Malik Abbott and Ernest ` Tron ' Anderson , seems entirely improvised .
+__label__4	Initially gripping , eventually cloying POW drama .
+__label__2	A timid , soggy near miss .
+__label__2	Works better in the conception than it does in the execution ... winds up seeming just a little too clever .
+__label__2	To the vast majority of more casual filmgoers , it will probably be a talky bore .
+__label__3	Observant intelligence constantly vies with pretension -- and sometimes plain wacky implausibility -- throughout Maelstrom .
+__label__3	This version of H.G. Wells ' Time Machine was directed by H.G. Wells ' great-grandson .
+__label__3	They should have found Orson Welles ' great-grandson .
+__label__2	Shunji Iwai 's All About Lily Chou Chou is a beautifully shot , but ultimately flawed film about growing up in Japan .
+__label__2	With more character development this might have been an eerie thriller ; with better payoffs , it could have been a thinking man 's monster movie .
+__label__3	Thriller directorial debut for Traffic scribe Gaghan has all the right parts , but the pieces do n't quite fit together .
+__label__3	... would be a total loss if not for two supporting performances taking place at the movie 's edges .
+__label__1	There 's not a single jump-in-your-seat moment and believe it or not , Jason actually takes a backseat in his own film to special effects .
+__label__4	Goldbacher draws on an elegant visual sense and a talent for easy , seductive pacing ... but she and writing partner Laurence Coriat do n't manage an equally assured narrative coinage .
+__label__2	Though Harris is affecting at times , he can not overcome the sense that Pumpkin is a mere plot pawn for two directors with far less endearing disabilities .
+__label__1	The documentary is much too conventional -- lots of boring talking heads , etc. -- to do the subject matter justice .
+__label__2	The movie itself appears to be running on hypertime in reverse as the truly funny bits get further and further apart .
+__label__2	This is not a Jackie Chan movie .
+__label__2	It 's just a movie that happens to have Jackie Chan in it .
+__label__4	And that makes all the difference .
+__label__1	Far too clever by half , Howard 's film is really a series of strung-together moments , with all the spaces in between filled with fantasies , daydreams , memories and one fantastic visual trope after another .
+__label__2	The problem with movies about angels is they have a tendency to slip into hokum .
+__label__1	A Rumor of Angels does n't just slip -- it avalanches into forced fuzziness .
+__label__1	No big whoop , nothing new to see , zero thrills , too many flashbacks and a choppy ending make for a bad film .
+__label__2	I do n't think this movie loves women at all .
+__label__1	Shankman ... and screenwriter Karen Janszen bungle their way through the narrative as if it were a series of Bible parables and not an actual story .
+__label__2	A negligible British comedy .
+__label__2	Fails to convince the audience that these brats will ever be anything more than losers .
+__label__1	Slack and uninspired , and peopled mainly by characters so unsympathetic that you 're left with a sour taste in your mouth .
+__label__1	Skip this turd and pick your nose instead because you 're sure to get more out of the latter experience .
+__label__3	What can one say about a balding 50-year-old actor playing an innocent boy carved from a log ?
+__label__2	Trailer trash cinema so uncool the only thing missing is the `` Gadzooks ! ''
+__label__2	Her film is like a beautiful food entrée that is n't heated properly , so that it ends up a bit cold and relatively flavorless .
+__label__2	Like the world of his film , Hartley created a monster but did n't know how to handle it .
+__label__2	No new plot conceptions or environmental changes , just different bodies for sharp objects to rip through .
+__label__2	Needs more impressionistic cinematography and exhilarating point-of-view shots and fewer slow-motion ` grandeur ' shots and quick-cut edits that often detract from the athleticism .
+__label__1	In the end , there is n't much to it .
+__label__2	A waste of fearless purity in the acting craft .
+__label__2	The film is ultimately about as inspiring as a Hallmark card .
+__label__2	Anyone not into high-tech splatterfests is advised to take the warning literally , and log on to something more user-friendly .
+__label__2	Disreputable doings and exquisite trappings are dampened by a lackluster script and substandard performances .
+__label__1	You could easily mistake it for a sketchy work-in-progress that was inexplicably rushed to the megaplexes before its time .
+__label__3	Directors Harry Gantz and Joe Gantz have chosen a fascinating subject matter , but the couples exposing themselves are n't all that interesting .
+__label__2	Yet another entry in the sentimental oh-those-wacky-Brits genre that was ushered in by The Full Monty and is still straining to produce another smash hit .
+__label__1	for those for whom the name Woody Allen was once a guarantee of something fresh , sometimes funny , and usually genuinely worthwhile , Hollywood Ending is a depressing experience
+__label__2	Femme Fatale offers nothing more than a bait-and-switch that is beyond playing fair with the audience .
+__label__2	Are we dealing with dreams , visions or being told what actually happened as if it were the third ending of Clue ?
+__label__1	It could have been something special , but two things drag it down to mediocrity -- director Clare Peploe 's misunderstanding of Marivaux 's rhythms , and Mira Sorvino 's limitations as a classical actress .
+__label__2	Fluffy neo-noir hiding behind cutesy film references .
+__label__2	Imagine Susan Sontag falling in love with Howard Stern .
+__label__3	Like being trapped inside a huge video game , where exciting , inane images keep popping past your head and the same illogical things keep happening over and over again .
+__label__2	Should have been worth cheering as a breakthrough but is devoid of wit and humor .
+__label__4	The best thing about the movie is its personable , amusing cast .
+__label__2	These guys seem great to knock back a beer with but they 're simply not funny performers .
+__label__1	Everything was as superficial as the forced New Jersey lowbrow accent Uma had .
+__label__2	Director David Fincher and writer David Koepp ca n't sustain it .
+__label__3	Finally coming down off of Miramax 's deep shelves after a couple of aborted attempts , Waking Up in Reno makes a strong case for letting sleeping dogs lie .
+__label__3	A movie that feels like the pilot episode of a new teen-targeted action TV series .
+__label__1	One of the most highly-praised disappointments I 've had the misfortune to watch in quite some time .
+__label__3	The animation and backdrops are lush and inventive , yet Return to Neverland never manages to take us to that elusive , lovely place where we suspend our disbelief .
+__label__2	Director Shekhar Kapur and screenwriters Michael Schiffer and Hossein Amini have tried hard to modernize and reconceptualize things , but the barriers finally prove to be too great .
+__label__1	Strong filmmaking requires a clear sense of purpose , and in that oh-so-important category , The Four Feathers comes up short .
+__label__1	The thought of watching this film with an audience full of teenagers fixating on its body humour and reinforcement of stereotypes ( of which they 'll get plenty ) fills me with revulsion .
+__label__2	Devolves into the derivative , leaning on badly-rendered CGI effects .
+__label__3	Anyone who gets chills from movies with giant plot holes will find plenty to shake and shiver about in ` The Ring . '
+__label__1	A grand fart coming from a director beginning to resemble someone 's crazy French grandfather .
+__label__2	The script is a disaster , with cloying messages and irksome characters .
+__label__3	both overstuffed and undernourished ... The film ca n't be called a solid success , although there 's plenty of evidence here to indicate Clooney might have better luck next time .
+__label__3	Plods along , minus the twisted humor and eye-popping visuals that have made Miike ... a cult hero .
+__label__2	Hollywood has taken quite a nosedive from Alfred Hitchcock 's imaginative flight to Shyamalan 's self-important summer fluff .
+__label__2	The film 's maudlin focus on the young woman 's infirmity and her naive dreams play like the worst kind of Hollywood heart-string plucking .
+__label__4	I firmly believe that a good video game movie is going to show up soon .
+__label__2	I also believe that Resident Evil is not it .
+__label__2	It has the air of a surprisingly juvenile lark , a pop-influenced prank whose charms are immediately apparent and wear thin with repetition .
+__label__3	The plot meanders from gripping to plodding and back .
+__label__2	This is cruel , misanthropic stuff with only weak claims to surrealism and black comedy .
+__label__1	No amount of nostalgia for Carvey 's glory days can disguise the fact that the new film is a lame kiddie flick and that Carvey 's considerable talents are wasted in it .
+__label__3	Best described as I Know What You Did Last Winter .
+__label__3	( Taylor ) takes us on a ride that 's consistently surprising , easy to watch -- but , oh , so dumb .
+__label__3	It 's difficult for a longtime admirer of his work to not be swept up in Invincible and overlook its drawbacks .
+__label__2	Lazily directed by Charles Stone III ... from a leaden script by Matthew Cirulnick and novelist Thulani Davis .
+__label__2	Though Jones and Snipes are enthralling , the movie bogs down in rhetoric and cliché .
+__label__3	The most remarkable ( and frustrating ) thing about World Traveler , which opens today in Manhattan , is that its protagonist , after being an object of intense scrutiny for 104 minutes , remains a complete blank .
+__label__1	An artsploitation movie with too much exploitation and too little art .
+__label__1	The pacing is often way off and there are too many bona fide groaners among too few laughs .
+__label__3	With lines that feel like long soliloquies -- even as they are being framed in conversation -- Max is static , stilted .
+__label__2	Barely manages for but a few seconds over its seemingly eternal running time to pique your interest , your imagination , your empathy or anything , really , save your disgust and your indifference .
+__label__4	Writer/director Burr Steers emphasizes the Q in Quirky , with mixed results .
+__label__2	One senses in World Traveler and in his earlier film that Freundlich bears a grievous but obscure complaint against fathers , and circles it obsessively , without making contact .
+__label__4	In between the icy stunts , the actors spout hilarious dialogue about following your dream and ` just letting the mountain tell you what to do . '
+__label__3	The obligatory break-ups and hook-ups do n't seem to have much emotional impact on the characters .
+__label__3	Make no mistake , ivans xtc .
+__label__1	is a mess .
+__label__1	Hypnotically dull , relentlessly downbeat , laughably predictable wail pitched to the cadence of a depressed fifteen-year-old 's suicidal poetry .
+__label__4	The concept is a hoot .
+__label__5	The trailer is a riot .
+__label__1	The movie is a dud .
+__label__4	It 's a boring movie about a boring man , made watchable by a bravura performance from a consummate actor incapable of being boring .
+__label__1	Because the intelligence level of the characters must be low , very low , very very low , for the masquerade to work , the movie contains no wit , only labored gags .
+__label__1	It 's hard to imagine another director ever making his wife look so bad in a major movie .
+__label__3	Some stunning visuals -- and some staggeringly boring cinema .
+__label__2	These characters become wearisome .
+__label__2	A hit - and-miss affair , consistently amusing but not as outrageous or funny as Cho may have intended or as imaginative as one might have hoped .
+__label__2	This may be the first cartoon ever to look as if it were being shown on the projection television screen of a sports bar .
+__label__2	Kim Ki-Deok seems to have in mind an ( emotionally at least ) adolescent audience demanding regular shocks and bouts of barely defensible sexual violence to keep it interested .
+__label__3	A sterling film - a cross between Boys Do n't Cry , Deliverance , and Ode to Billy Joe - lies somewhere in the story of Matthew Shepard , but that film is yet to be made .
+__label__1	After sitting through this sloppy , made-for-movie comedy special , it makes me wonder if Lawrence hates criticism so much that he refuses to evaluate his own work .
+__label__2	Contrived pastiche of caper clichés .
+__label__3	Many shallower movies these days seem too long , but this one is egregiously short .
+__label__3	Just a Kiss wants desperately to come off as a fanciful film about the typical problems of average people .
+__label__3	But it is set in a world that is very , very far from the one most of us inhabit .
+__label__3	The most ill-conceived animated comedy since the 1991 dog Rover Dangerfield .
+__label__3	Like shave ice without the topping , this cinematic snow cone is as innocuous as it is flavorless .
+__label__2	Despite its sincere acting , Signs is just another unoriginal run of the mill sci-fi film with a flimsy ending and lots of hype .
+__label__3	Yet another movie which presumes that high school social groups are at war , let alone conscious of each other 's existence .
+__label__1	Loud , chaotic and largely unfunny .
+__label__3	I ca n't remember the last time I saw an audience laugh so much during a movie , but there 's only one problem ... it 's supposed to be a drama .
+__label__2	Qualities that were once amusing are becoming irritating .
+__label__2	Well , Jason 's gone to Manhattan and Hell , I guess a space station in the year 2455 can be crossed off the list of ideas for the inevitable future sequels ( hey , do n't shoot the messenger ) .
+__label__2	Donovan ... squanders his main asset , Jackie Chan , and fumbles the vital action sequences .
+__label__1	There is no psychology here , and no real narrative logic -- just a series of carefully choreographed atrocities , which become strangely impersonal and abstract .
+__label__1	Bread , My Sweet has so many flaws it would be easy for critics to shred it .
+__label__3	It may even fall into the category of Films You Love to Hate .
+__label__3	I admit it , I hate to like it .
+__label__3	Frida is certainly no disaster , but neither is it the Kahlo movie Frida fans have been looking for .
+__label__2	Leaks treacle from every pore .
+__label__1	The characters are so generic and the plot so bland that even as rogue CIA assassins working for Chris Cooper 's agency boss close in on the resourceful amnesiac , we do n't feel much for Damon/Bourne or his predicament .
+__label__2	Kapur weighs down the tale with bogus profundities .
+__label__3	While we want MacDowell 's character to retrieve her husband , we have to ask whether her personal odyssey trumps the carnage that claims so many lives around her .
+__label__2	Blue Crush is as predictable as the tides .
+__label__2	... The movie feels stitched together from stock situations and characters from other movies .
+__label__1	If you enjoy being rewarded by a script that assumes you are n't very bright , then Blood Work is for you .
+__label__2	Trouble Every Day is a success in some sense , but it 's hard to like a film so cold and dead .
+__label__3	The film 's stagecrafts are intimate and therefore bolder than the otherwise calculated artifice that defines and overwhelms the film 's production design .
+__label__2	A well-intentioned effort that 's still too burdened by the actor 's offbeat sensibilities for the earnest emotional core to emerge with any degree of accessibility .
+__label__3	A family-friendly fantasy that ends up doing very little with its imaginative premise .
+__label__3	A plodding look at the French Revolution through the eyes of aristocrats .
+__label__3	Tom Shadyac has learned a bit more craft since directing Adams , but he still lingers over every point until the slowest viewer grasps it .
+__label__3	Unspools like a highbrow , low-key , 102-minute infomercial , blending entrepreneurial zeal with the testimony of satisfied customers .
+__label__3	A fast-paced , glitzy but extremely silly piece .
+__label__1	Any reasonably creative eighth-grader could have written a more credible script , though with the same number of continuity errors .
+__label__2	... while the humor aspects of ` Jason X ' were far more entertaining than I had expected , everything else about the film tanks .
+__label__3	Your taste for Jonah - A Veggie Tales Movie may well depend on your threshold for pop manifestations of the Holy Spirit .
+__label__2	Like an Afterschool Special with costumes by Gianni Versace , Mad Love looks better than it feels .
+__label__3	While certain cues , like the happy music , suggest that this movie is supposed to warm our hearts , Jeong-Hyang Lee 's film is just as likely to blacken that organ with cold vengefulness .
+__label__1	The script , the gags , the characters are all direct-to-video stuff , and that 's where this film should have remained .
+__label__2	A thriller without thrills and a mystery devoid of urgent questions .
+__label__2	A collage of clichés and a dim echo of allusions to other films .
+__label__2	The film is hampered by its predictable plot and paper-thin supporting characters .
+__label__3	Jonah is only so-so ... the addition of a biblical message will either improve the film for you , or it will lessen it .
+__label__2	An excruciating demonstration of the unsalvageability of a movie saddled with an amateurish screenplay .
+__label__2	How many more times will indie filmmakers subject us to boring , self-important stories of how horrible we are to ourselves and each other ?
+__label__2	There are some laughs in this movie , but Williams ' anarchy gets tiresome , the satire is weak .
+__label__1	As steamy as last week 's pork dumplings .
+__label__1	The somber pacing and lack of dramatic fireworks make Green Dragon seem more like medicine than entertainment .
+__label__2	The filmmakers needed more emphasis on the storytelling and less on the glamorous machine that thrusts the audience into a future they wo n't much care about .
+__label__1	Another wholly unnecessary addition to the growing , moldering pile of , well , extreme stunt pictures .
+__label__1	This strenuously unfunny Showtime deserves the hook .
+__label__2	The whole thing 's fairly lame , making it par for the course for Disney sequels .
+__label__2	... its solemn pretension prevents us from sharing the awe in which it holds itself .
+__label__2	... the good and different idea ( of middle-aged romance ) is not handled well and , except for the fine star performances , there is little else to recommend `` Never Again . ''
+__label__2	If Disney 's Cinderella proved that ' a dream is a wish your heart makes , ' then Cinderella II proves that a nightmare is a wish a studio 's wallet makes .
+__label__1	Features nonsensical and laughable plotting , wooden performances , ineptly directed action sequences and some of the worst dialogue in recent memory .
+__label__3	With Rare Birds , as with The Shipping News before it , an attempt is made to transplant a Hollywood star into Newfoundland 's wild soil -- and The Rock once again resists the intrusion .
+__label__1	Nothing about this movie works .
+__label__3	If the idea of the white man arriving on foreign shores to show wary natives the true light is abhorrent to you , the simplistic Heaven will quite likely be more like hell .
+__label__2	A spooky yarn of demonic doings on the high seas that works better the less the brain is engaged .
+__label__2	None of Birthday Girl 's calculated events take us by surprise ...
+__label__3	Are monsters born , or made ?
+__label__2	Lisa Rinzler 's cinematography may be lovely , but Love Liza 's tale itself virtually collapses into an inhalant blackout , maintaining consciousness just long enough to achieve callow pretension .
+__label__2	The narrator and the other characters try to convince us that acting transfigures Esther , but she 's never seen speaking on stage ; one feels cheated , and Esther seems to remain an unchanged dullard .
+__label__2	It 's exactly the kind of movie Toback 's detractors always accuse him of making .
+__label__2	With the dog days of August upon us , think of this dog of a movie as the cinematic equivalent of high humidity .
+__label__3	Less about Shakespeare than the spawn of fools who saw Quentin Tarantino 's handful of raucous gangster films and branched out into their own pseudo-witty copycat interpretations .
+__label__1	The film is like sitting in a downtown café , overhearing a bunch of typical late-twenty-somethings natter on about nothing , and desperately wishing you could change tables .
+__label__2	This rather unfocused , all-over-the-map movie would be a lot better if it pared down its plots and characters to a few rather than dozens ... or if it were subtler ... or if it had a sense of humor .
+__label__2	Takes a clunky TV-movie approach to detailing a chapter in the life of the celebrated Irish playwright , poet and drinker .
+__label__1	Not only does the thoroughly formulaic film represent totally exemplify middle-of-the-road mainstream , it also represents glossy Hollywood at its laziest .
+__label__1	A shame that Stealing Harvard is too busy getting in its own way to be anything but frustrating , boring , and forgettable .
+__label__1	Nearly every attempt at humor here is DOA .
+__label__2	Collapses under its own meager weight .
+__label__3	This is mild-mannered , been-there material given a pedestrian spin by a director who needed a touch of the flamboyant , the outrageous .
+__label__3	If you adored The Full Monty so resoundingly that you 're dying to see the same old thing in a tired old setting , then this should keep you reasonably entertained .
+__label__2	Technically and artistically inept .
+__label__2	Those who are only mildly curious , I fear , will be put to sleep or bewildered by the artsy and often pointless visuals .
+__label__2	Though Tom Shadyac 's film kicks off spookily enough , around the halfway mark it takes an abrupt turn into glucose sentimentality and laughable contrivance .
+__label__1	A long , dull procession of despair , set to cello music culled from a minimalist funeral .
+__label__1	Call me a cold-hearted curmudgeon for not being able to enjoy a mindless action movie , but I believe a movie can be mindless without being the peak of all things insipid .
+__label__2	Death might be a release .
+__label__2	`` ( Hopkins ) does n't so much phone in his performance as fax it .
+__label__2	No , even that 's too committed .
+__label__3	He gets his secretary to fax it . ''
+__label__2	Sodden and glum , even in those moments where it 's supposed to feel funny and light .
+__label__1	Priggish , lethargically paced parable of renewal .
+__label__2	A beautifully shot but dull and ankle-deep ` epic . '
+__label__2	Even with its $ 50-million US budget , Pinocchio never quite achieves the feel of a fanciful motion picture .
+__label__2	This is a third-person story now , told by Hollywood , and much more ordinary for it .
+__label__4	The filmmakers know how to please the eye , but it is not always the prettiest pictures that tell the best story .
+__label__2	Written , flatly , by David Kendall and directed , barely , by There 's Something About Mary co-writer Ed Decter .
+__label__3	The characters are interesting and the relationship between Yosuke and Saeko is worth watching as it develops , but there 's not enough to the story to fill two hours .
+__label__3	Very well made , but does n't generate a lot of tension .
+__label__3	Like being invited to a classy dinner soiree and not knowing anyone .
+__label__2	You leave the same way you came -- a few tasty morsels under your belt , but no new friends .
+__label__2	It 's depressing to see how far Herzog has fallen .
+__label__3	The question hanging over The Time Machine is not , as the main character suggests , ` what if ? '
+__label__1	but rather , ` How can you charge money for this ? '
+__label__2	Millions of dollars heaped upon a project of such vast proportions need to reap more rewards than spiffy bluescreen technique and stylish weaponry .
+__label__2	`` Freaky Friday , '' it 's not .
+__label__2	Perhaps a better celebration of these unfairly dismissed heroes would be a film that is n't this painfully forced , false and fabricated .
+__label__2	Although no pastry is violated , this nasty comedy pokes fun at the same easy targets as other rowdy raunch-fests -- farts , boobs , unmentionables -- without much success .
+__label__3	In this film , Aussie David Caesar channels the not-quite-dead career of Guy Ritchie .
+__label__1	Maybe you 'll be lucky , and there 'll be a power outage during your screening so you can get your money back .
+__label__2	The characterizations and dialogue lack depth or complexity , with the ironic exception of Scooter .
+__label__3	This film was made by and for those folks who collect the serial killer cards and are fascinated by the mere suggestion of serial killers .
+__label__1	For the rest of us , sitting through Dahmer 's two hours amounts to little more than punishment .
+__label__3	Narc can only remind us of brilliant crime dramas without becoming one itself .
+__label__2	Somewhere inside the mess that is World Traveler , there is a mediocre movie trying to get out .
+__label__3	A tedious parable about honesty and good sportsmanship .
+__label__3	Its strengths and weaknesses play off each other virtually to a stand-off , with the unfortunate trump card being the dreary mid-section of the film .
+__label__2	An artful yet depressing film that makes a melodramatic mountain out of the molehill of a missing bike .
+__label__1	The movie 's ultimate point -- that everyone should be themselves -- is trite , but the screenwriter and director Michel Gondry restate it to the point of ridiculousness .
+__label__3	A glossy knock-off of a B-movie revenge flick .
+__label__2	... expands the horizons of boredom to the point of collapse , turning into a black hole of dullness , from which no interesting concept can escape .
+__label__3	It 's just plain boring .
+__label__2	Sad nonsense , this .
+__label__4	But not without cheesy fun factor .
+__label__2	One of those decades-spanning historical epics that strives to be intimate and socially encompassing but fails to do justice to either effort in three hours of screen time .
+__label__3	Really dumb but occasionally really funny .
+__label__2	The movie wavers between Hallmark card sentimentality and goofy , life-affirming moments straight out of a cellular phone commercial .
+__label__2	The director 's many dodges and turns add up to little more than a screenful of gamesmanship that 's low on both suspense and payoff .
+__label__2	While the transgressive trappings ( especially the frank sex scenes ) ensure that the film is never dull , Rodrigues 's beast-within metaphor is ultimately rather silly and overwrought , making the ambiguous ending seem goofy rather than provocative .
+__label__1	The satire is unfocused , while the story goes nowhere .
+__label__2	They threw loads of money at an idea that should 've been so much more even if it was only made for teenage boys and wrestling fans .
+__label__1	It 's mired in a shabby script that piles layer upon layer of Action Man cliché atop wooden dialogue and a shifting tone that falls far short of the peculiarly moral amorality of ( Woo 's ) best work .
+__label__2	Reyes ' directorial debut has good things to offer , but ultimately it 's undone by a sloppy script
+__label__1	If you 're over 25 , have an IQ over 90 , and have a driver 's license , you should be able to find better entertainment .
+__label__2	The darker elements of misogyny and unprovoked violence suffocate the illumination created by the two daughters and the sparse instances of humor meant to shine through the gloomy film noir veil .
+__label__3	... the picture 's cleverness is ironically muted by the very people who are intended to make it shine .
+__label__2	Never does `` Lilo & Stitch '' reach the emotion or timelessness of Disney 's great past , or even that of more recent successes such as `` Mulan '' or `` Tarzan . ''
+__label__2	One of those so-so films that could have been much better .
+__label__1	Crossroads feels like a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama .
+__label__2	Fails to satisfactorily exploit its gender politics , genre thrills or inherent humor .
+__label__2	Interview With the Assassin is structured less as a documentary and more as a found relic , and as such the film has a difficult time shaking its Blair Witch Project real-time roots .
+__label__2	Cacoyannis ' vision is far less mature , interpreting the play as a call for pity and sympathy for anachronistic phantasms haunting the imagined glory of their own pasts .
+__label__2	It has more in common with a fireworks display than a movie , which normally is expected to have characters and a storyline .
+__label__1	It appears to have been made by people to whom the idea of narrative logic or cohesion is an entirely foreign concept .
+__label__3	Less a heartfelt appeal for the handicapped than a nice Belgian waffle .
+__label__2	It 's not helpful to listen to extremist name-calling , regardless of whether you think Kissinger was a calculating fiend or just a slippery self-promoter .
+__label__2	Abandon spends 90 minutes trying figure out whether or not some cocky pseudo-intellectual kid has intentionally left college or was killed .
+__label__1	The only problem is that , by the end , no one in the audience or the film seems to really care .
+__label__5	No Such Thing is sort of a minimalist Beauty and the Beast , but in this case the Beast should definitely get top billing .
+__label__4	Robert John Burke as The Monster horns in and steals the show .
+__label__1	Due to stodgy , soap opera-ish dialogue , the rest of the cast comes across as stick figures reading lines from a TelePrompTer .
+__label__2	( T ) he film is never sure to make a clear point -- even if it seeks to rely on an ambiguous presentation .
+__label__4	While it may not add up to the sum of its parts , Holofcener 's film offers just enough insight to keep it from being simpleminded , and the ensemble cast is engaging enough to keep you from shifting in your chair too often .
+__label__3	An overwrought Taiwanese soaper about three people and their mixed-up relationship .
+__label__1	Nobody seems to have cared much about any aspect of it , from its cheesy screenplay to the grayish quality of its lighting to its last-minute , haphazard theatrical release .
+__label__1	A thoroughly awful movie -- dumb , narratively chaotic , visually sloppy ... a weird amalgam of ` The Thing ' and a geriatric ` Scream . '
+__label__2	... another example of how Sandler is losing his touch .
+__label__1	Nothing sticks , really , except a lingering creepiness one feels from being dragged through a sad , sordid universe of guns , drugs , avarice and damaged dreams .
+__label__2	What goes on for the 110 minutes of `` Panic Room '' is a battle of witlessness between a not-so-bright mother and daughter and an even less capable trio of criminals .
+__label__2	The plot 's contrivances are uncomfortably strained .
+__label__1	Guilty of the worst sin of attributable to a movie like this : it 's not scary in the slightest .
+__label__2	Schnieder bounces around with limp wrists , wearing tight tummy tops and hip huggers , twirling his hair on his finger and assuming that 's enough to sustain laughs ...
+__label__2	Its simplicity puts an exclamation point on the fact that this is n't something to be taken seriously , but it also wrecks any chance of the movie rising above similar fare .
+__label__2	By the final whistle you 're convinced that this Mean Machine was a decent TV outing that just does n't have big screen magic .
+__label__1	To say that this vapid vehicle is downright doltish and uneventful is just as obvious as telling a country skunk that he has severe body odor .
+__label__1	A film of empty , fetishistic violence in which murder is casual and fun .
+__label__2	Pretend it 's a werewolf itself by avoiding eye contact and walking slowly away .
+__label__4	It 's fun , but it 's a real howler .
+__label__2	Some fine acting , but ultimately a movie with no reason for being .
+__label__2	It 's difficult to feel anything much while watching this movie , beyond mild disturbance or detached pleasure at the acting .
+__label__2	A waterlogged version of ` Fatal Attraction ' for the teeny-bopper set ... a sad , soggy potboiler that wastes the talents of its attractive young leads .
+__label__3	It tells its story in a flat manner and leaves you with the impression that you should have gotten more out of it than you did .
+__label__2	Sweet gentle Jesus , did the screenwriters just do a cut-and-paste of every bad action-movie line in history ?
+__label__3	It 's not the worst comedy of the year , but it certainly wo n't win any honors .
+__label__2	This is for the most part a useless movie , even with a great director at the helm .
+__label__1	A loud , witless mess that has none of the charm and little of the intrigue from the TV series .
+__label__1	Even on its own ludicrous terms , The Sum of All Fears generates little narrative momentum , and invites unflattering comparisons to other installments in the Ryan series .
+__label__3	Though it inspires some ( out-of-field ) creative thought , the film is -- to its own detriment -- much more a cinematic collage than a polemical tract .
+__label__1	As predictable as the outcome of a Globetrotters-Generals game , Juwanna Mann is even more ludicrous than you 'd expect from the guy-in-a-dress genre , and a personal low for everyone involved .
+__label__3	Sinks into the usual cafeteria goulash of fart jokes , masturbation jokes , and racist Japanese jokes .
+__label__2	Where Tom Green stages his gags as assaults on America 's knee-jerk moral sanctimony , Jackass lacks aspirations of social upheaval .
+__label__3	More of an intriguing curiosity than a gripping thriller .
+__label__2	The April 2002 instalment of the American War for Independence , complete with loads of CGI and bushels of violence , but not a drop of human blood .
+__label__2	Contains all the substance of a Twinkie -- easy to swallow , but scarcely nourishing .
+__label__2	Return to Neverland manages to straddle the line between another classic for the company and just another run-of-the-mill Disney sequel intended for the home video market .
+__label__1	Rarely does a film so graceless and devoid of merit as this one come along .
+__label__2	It 's a thin notion , repetitively stretched out to feature length , awash in self-consciously flashy camera effects , droning house music and flat , flat dialogue .
+__label__3	On a certain base level , Blue Crush delivers what it promises , just not well enough to recommend it .
+__label__2	The colorful Masseur wastes its time on mood rather than riding with the inherent absurdity of Ganesh 's rise up the social ladder .
+__label__1	... an incredibly heavy-handed , manipulative dud that feels all too familiar .
+__label__2	Wimps out by going for that PG-13 rating , so the more graphic violence is mostly off-screen and the sexuality is muted .
+__label__4	Trapped presents a frightening and compelling ` What if ? '
+__label__3	scenario that will give most parents pause ... Then , something terrible happens .
+__label__1	Madonna has made herself over so often now , there 's apparently nothing left to work with , sort of like Michael Jackson 's nose .
+__label__1	Never having seen the first two films in the series , I ca n't compare Friday After Next to them , but nothing would change the fact that what we have here is a load of clams left in the broiling sun for a good three days .
+__label__1	The story is lacking any real emotional impact , and the plot is both contrived and cliched .
+__label__1	A depraved , incoherent , instantly disposable piece of hackery .
+__label__1	It 's a bad action movie because there 's no rooting interest and the spectacle is grotesque and boring .
+__label__2	( Soderbergh ) tends to place most of the psychological and philosophical material in italics rather than trust an audience 's intelligence , and he creates an overall sense of brusqueness .
+__label__3	Handsome and sincere but slightly awkward in its combination of entertainment and evangelical boosterism .
+__label__2	So aggressively cheery that Pollyana would reach for a barf bag .
+__label__2	Scooby-Doo does n't know if it wants to be a retro-refitting exercise in campy recall for older fans or a silly , Nickelodeon-esque kiddie flick .
+__label__2	Russell lacks the visual panache , the comic touch , and perhaps the budget of Sommers 's title-bout features .
+__label__1	Highly uneven and inconsistent ... Margarita Happy Hour kinda resembles the el cheapo margaritas served within .
+__label__1	Very stupid and annoying .
+__label__1	The Sum of All Fears pretends to be a serious exploration of nuclear terrorism , but it 's really nothing more than warmed-over Cold War paranoia .
+__label__2	A listless and desultory affair .
+__label__2	Represents the depths to which the girls-behaving-badly film has fallen .
+__label__1	How inept is Serving Sara ?
+__label__1	It makes even Elizabeth Hurley seem graceless and ugly .
+__label__3	Jam-packed with literally bruising jokes .
+__label__3	Every five minutes or so , someone gets clocked .
+__label__3	Wins my vote for ` The 2002 Enemy of Cinema ' Award .
+__label__3	Any Chekhov is better than no Chekhov , but it would be a shame if this was your introduction to one of the greatest plays of the last 100 years .
+__label__2	Helmer Hudlin tries to make a hip comedy , but his dependence on slapstick defeats the possibility of creating a more darkly edged tome .
+__label__1	Lazy , miserable and smug .
+__label__1	This is one of the biggest disappointments of the year .
+__label__3	Formula 51 has dulled your senses faster and deeper than any recreational drug on the market .
+__label__2	Every visual joke is milked , every set-up obvious and lengthy , every punchline predictable .
+__label__1	There 's no energy .
+__label__3	Apparently writer-director Attal thought he need only cast himself and his movie-star wife sitting around in their drawers to justify a film .
+__label__3	After the setup , the air leaks out of the movie , flattening its momentum with about an hour to go .
+__label__2	This is a poster movie , a mediocre tribute to films like Them !
+__label__2	At three hours and with very little story or character development , there is plenty of room for editing , and a much shorter cut surely would have resulted in a smoother , more focused narrative without sacrificing any of the cultural intrigue .
+__label__3	A bit too derivative to stand on its own as the psychological thriller it purports to be .
+__label__3	A crude teen-oriented variation on a theme that the playwright Craig Lucas explored with infinitely more grace and eloquence in his Prelude to a Kiss .
+__label__3	The film 's darker moments become smoothed over by an overwhelming need to tender inspirational tidings , especially in the last few cloying moments .
+__label__2	If you recognize Zeus ( the dog from Snatch ) it will make you wish you were at home watching that movie instead of in the theater watching this one .
+__label__1	This is the kind of movie that you only need to watch for about thirty seconds before you say to yourself , ` Ah , yes , here we have a bad , bad , bad movie . '
+__label__3	Shanghai Ghetto should be applauded for finding a new angle on a tireless story , but you might want to think twice before booking passage .
+__label__3	Plays like a checklist of everything Rob Reiner and his cast were sending up .
+__label__1	There 's too much forced drama in this wildly uneven movie , about a young man 's battle with his inescapable past and uncertain future in a very shapable but largely unfulfilling present .
+__label__4	It 's at once laughable and compulsively watchable , in its committed dumbness .
+__label__2	All the sensuality , all the eroticism of a good vampire tale has been , pardon the pun , sucked out and replaced by goth goofiness .
+__label__2	A cross between Blow and Boyz N The Hood , this movie strives to be more , but does n't quite get there .
+__label__4	Good performances keep it from being a total rehash .
+__label__2	The screenplay is hugely overwritten , with tons and tons of dialogue -- most of it given to children .
+__label__3	Troll the cult section of your local video store for the real deal .
+__label__5	At times , the movie looks genuinely pretty .
+__label__3	Your nightmares , on the other hand , will be anything but .
+__label__1	Not even Felinni would know what to make of this Italian freakshow .
+__label__3	Elmo touts his drug as being 51 times stronger than coke .
+__label__3	If you 're looking for a tale of Brits behaving badly , watch Snatch again .
+__label__3	It 's 51 times better than this .
+__label__1	It 's difficult to conceive of anyone who has reached puberty actually finding the characters in Slackers or their antics amusing , let alone funny .
+__label__2	Despite its promising cast of characters , Big Trouble remains a loosely tied series of vignettes which only prove that ` zany ' does n't necessarily mean ` funny . '
+__label__1	Both shrill and soporific , and because everything is repeated five or six times , it can seem tiresomely simpleminded .
+__label__2	Does not go far enough in its humor or stock ideas to stand out as particularly memorable or even all that funny .
+__label__1	Neither revelatory nor truly edgy -- merely crassly flamboyant and comedically labored .
+__label__2	Just about everyone involved here seems to be coasting .
+__label__3	There are a few modest laughs , but certainly no thrills .
+__label__2	Fails so fundamentally on every conventional level that it achieves some kind of goofy grandeur .
+__label__2	There 's a persistent theatrical sentiment and a woozy quality to the manner of the storytelling , which undercuts the devastatingly telling impact of utter loss personified in the film 's simple title .
+__label__3	While Howard 's appreciation of Brown and his writing is clearly well-meaning and sincere , the movie would be impossible to sit through were it not for the supporting cast .
+__label__1	A preposterous , prurient whodunit .
+__label__2	Go , girls , right down the reality drain .
+__label__2	Boasting some of the most poorly staged and lit action in memory , Impostor is as close as you can get to an imitation movie .
+__label__2	Can be classified as one of those ` alternate reality ' movies ... except that it would have worked so much better dealing in only one reality .
+__label__4	Predictable and cloying , though Brown Sugar is so earnest in its yearning for the days before rap went nihilistic that it summons more spirit and bite than your average formulaic romantic quadrangle .
+__label__1	... unlikable , uninteresting , unfunny , and completely , utterly inept .
+__label__1	The film is so busy making reference to other films and trying to be other films that it fails to have a heart , mind or humor of its own .
+__label__2	An imponderably stilted and self-consciously arty movie .
+__label__1	Muddled , melodramatic paranormal romance is an all-time low for Kevin Costner .
+__label__2	Too clumsy in key moments ... to make a big splash .
+__label__1	Just a bunch of good actors flailing around in a caper that 's neither original nor terribly funny .
+__label__2	` Matrix ' - style massacres erupt throughout ... but the movie has a tougher time balancing its violence with Kafka-inspired philosophy .
+__label__5	At least it 's a fairly impressive debut from the director , Charles Stone III .
+__label__1	It all unfolds predictably , and the adventures that happen along the way seem repetitive and designed to fill time , providing no real sense of suspense .
+__label__3	Wanker Goths are on the loose !
+__label__1	Run for your lives !
+__label__2	Why would anyone cast the magnificent Jackie Chan in a movie full of stunt doubles and special effects ?
+__label__2	A grating , emaciated flick .
+__label__2	Unambitious writing emerges in the movie , using a plot that could have come from an animated-movie screenwriting textbook .
+__label__3	Presents a good case while failing to provide a reason for us to care beyond the very basic dictums of human decency .
+__label__2	We have poignancy jostling against farce , thoughtful dialogue elbowed aside by one-liners , and a visual style that incorporates rotoscope animation for no apparent reason except , maybe , that it looks neat .
+__label__4	According to the script , Grant and Bullock 's characters are made for each other .
+__label__3	But you 'd never guess that from the performances .
+__label__3	The animation merely serves up a predictable , maudlin story that swipes heavily from Bambi and The Lion King , yet lacks the emotional resonance of either of those movies .
+__label__2	Ararat feels like a book report
+__label__2	Steve Oedekerk is , alas , no Woody Allen .
+__label__2	A lot like the imaginary sport it projects onto the screen -- loud , violent and mindless .
+__label__3	An amalgam of The Fugitive , Blade Runner , and Total Recall , only without much energy or tension .
+__label__1	The acting is amateurish , the cinematography is atrocious , the direction is clumsy , the writing is insipid and the violence is at once luridly graphic and laughably unconvincing .
+__label__2	Shows that Jackie Chan is getting older , and that 's something I would rather live in denial about
+__label__3	With miscast leads , banal dialogue and an absurdly overblown climax , Killing Me Softly belongs firmly in the so-bad-it 's - good camp .
+__label__3	Alas , the black-and-white archival footage of their act showcases pretty mediocre shtick .
+__label__1	The slapstick is labored , and the bigger setpieces flat .
+__label__2	This is the kind of movie where people who have never picked a lock do so easily after a few tries and become expert fighters after a few weeks .
+__label__2	The problem with the mayhem in Formula 51 is not that it 's offensive , but that it 's boring .
+__label__2	Much of the digitally altered footage appears jagged , as if filmed directly from a television monitor , while the extensive use of stock footage quickly becomes a tiresome cliché .
+__label__2	the film never rises above a conventional , two dimension tale
+__label__3	Mark Wahlberg ... may look classy in a '60s - homage pokepie hat , but as a character he 's dry , dry , dry .
+__label__2	Told in scattered fashion , the movie only intermittently lives up to the stories and faces and music of the men who are its subject .
+__label__4	The irony is that this film 's cast is uniformly superb ; their performances could have -- should have -- been allowed to stand on their own .
+__label__3	Now I can see why people thought I was too hard on `` The Mothman Prophecies '' .
+__label__5	If ever a concept came handed down from the movie gods on a silver platter , this is it .
+__label__1	If ever such a dependable concept was botched in execution , this is it .
+__label__4	With an unusual protagonist ( a kilt-wearing Jackson ) and subject matter , the improbable `` Formula 51 '' is somewhat entertaining , but it could have been much stronger .
+__label__3	Sandra Bullock 's best dramatic performance to date ( is ) almost enough to lift ( this ) thrill-kill cat-and-mouser ... above its paint-by-numbers plot .
+__label__2	A feel-good movie that does n't give you enough to feel good about .
+__label__4	Adolescents will be adequately served by the movie 's sophomoric blend of shenanigans and slapstick , although the more lascivious-minded might be disappointed in the relative modesty of a movie that sports a ` topless tutorial service . '
+__label__2	This mistaken-identity picture is so film-culture referential that the final product is a ghost .
+__label__1	The picture emerges as a surprisingly anemic disappointment .
+__label__3	De Niro cries .
+__label__1	You 'll cry for your money back .
+__label__1	Slap me , I saw this movie .
+__label__2	( The kid 's ) just too bratty for sympathy , and as the film grows to its finale , his little changes ring hollow .
+__label__1	Behind the glitz , Hollywood is sordid and disgusting .
+__label__3	Quelle surprise !
+__label__2	Scherfig , who has had a successful career in TV , tackles more than she can handle .
+__label__2	Just consider what New Best Friend does not have , beginning with the minor omission of a screenplay .
+__label__2	Oscar caliber cast does n't live up to material
+__label__3	The problems of the people in Love in the Time of Money are hardly specific to their era .
+__label__2	They just have problems , which are neither original nor are presented in convincing way .
+__label__2	Carrying this wafer-thin movie on his nimble shoulders , Chan wades through putrid writing , direction and timing with a smile that says , ` If I stay positive , maybe I can channel one of my greatest pictures , Drunken Master . '
+__label__1	So putrid it is not worth the price of the match that should be used to burn every print of the film .
+__label__1	In the end , the movie bogs down in insignificance , saying nothing about Kennedy 's assassination and revealing nothing about the pathology it pretends to investigate .
+__label__2	Starts out ballsy and stylish but fails to keep it up and settles into clichés .
+__label__2	Sometimes makes less sense than the Bruckheimeresque American action flicks it emulates .
+__label__2	One of those films where the characters inhabit that special annex of hell where adults behave like kids , children behave like adults and everyone screams at the top of their lungs no matter what the situation .
+__label__1	There 's only one way to kill Michael Myers for good : stop buying tickets to these movies .
+__label__3	` Rare Birds ' tries to force its quirkiness upon the audience .
+__label__1	The movie is about as humorous as watching your favorite pet get buried alive .
+__label__3	Resident Evil is what comes from taking John Carpenter 's Ghosts of Mars and eliminating the beheadings .
+__label__1	In other words , about as bad a film you 're likely to see all year .
+__label__2	Five screenwriters are credited with the cliché-laden screenplay ; it seems as if each watered down the version of the one before .
+__label__2	The whole thing comes off like a particularly amateurish episode of Bewitched that takes place during Spring Break .
+__label__2	Well made but uninvolving , Bloodwork is n't a terrible movie , just a stultifyingly obvious one -- an unrewarding collar for a murder mystery .
+__label__2	So we got Ten Little Indians meets Friday the 13th by way of Clean and Sober , filmed on the set of Carpenter 's The Thing and loaded with actors you 're most likely to find on the next inevitable incarnation of The Love Boat .
+__label__2	The movie 's blatant derivativeness is one reason it 's so lackluster .
+__label__2	Kids do n't mind crappy movies as much as adults , provided there 's lots of cute animals and clumsy people .
+__label__3	` Snow Dogs ' has both .
+__label__3	It 's almost as if it 's an elaborate dare more than a full-blooded film .
+__label__3	Wobbly Senegalese updating of `` Carmen '' which is best for the stunning star turn by Djeinaba Diop Gai
+__label__2	It 's the humanizing stuff that will probably sink the film for anyone who does n't think about percentages all day long .
+__label__4	Ken Russell would love this .
+__label__2	In one scene , we get a stab at soccer hooliganism , a double-barreled rip-off of Quentin Tarantino 's climactic shootout -- and Meat Loaf explodes .
+__label__3	Bella is the picture of health with boundless energy until a few days before she dies .
+__label__1	This is absolutely and completely ridiculous and an insult to every family whose mother has suffered through the horrible pains of a death by cancer .
+__label__2	The premise of `` Abandon '' holds promise , ... but its delivery is a complete mess .
+__label__3	What could have been a pointed little chiller about the frightening seductiveness of new technology loses faith in its own viability and succumbs to joyless special-effects excess .
+__label__2	A little too ponderous to work as shallow entertainment , not remotely incisive enough to qualify as drama , Monsoon Wedding serves mostly to whet one 's appetite for the Bollywood films .
+__label__2	Unless Bob Crane is someone of particular interest to you , this film 's impressive performances and adept direction are n't likely to leave a lasting impression .
+__label__3	The Rock has a great presence but one battle after another is not the same as one battle followed by killer CGI effects .
+__label__4	The bottom line with Nemesis is the same as it has been with all the films in the series : Fans will undoubtedly enjoy it , and the uncommitted need n't waste their time on it .
+__label__2	The lousy John Q all but spits out Denzel Washington 's fine performance in the title role .
+__label__1	The whole thing feels like a ruse , a tactic to cover up the fact that the picture is constructed around a core of flimsy -- or , worse yet , nonexistent -- ideas .
+__label__1	What a stiflingly unfunny and unoriginal mess this is !
+__label__2	The film is so packed with subplots involving the various Silbersteins that it feels more like the pilot episode of a TV series than a feature film .
+__label__2	Opera on film is never satisfactory .
+__label__4	The art demands live viewing .
+__label__1	The innate theatrics that provide its thrills and extreme emotions lose their luster when flattened onscreen .
+__label__1	Despite all the closed-door hanky-panky , the film is essentially juiceless .
+__label__2	It is parochial , accessible to a chosen few , standoffish to everyone else , and smugly suggests a superior moral tone is more important than filmmaking skill
+__label__2	The Sweetest Thing leaves an awful sour taste .
+__label__2	It 's lost the politics and the social observation and become just another situation romance about a couple of saps stuck in an inarticulate screenplay .
+__label__2	Terminally bland , painfully slow and needlessly confusing ... The movie , shot on digital videotape rather than film , is frequently indecipherable .
+__label__4	As dumb and cheesy as they may be , the cartoons look almost Shakespearean -- both in depth and breadth -- after watching this digital-effects-heavy , supposed family-friendly comedy .
+__label__1	Aloof and lacks any real raw emotion , which is fatal for a film that relies on personal relationships .
+__label__2	A low-rent retread of the Alien pictures .
+__label__3	Serviceable at best , slightly less than serviceable at worst .
+__label__2	Its initial excitement settles into a warmed over pastiche .
+__label__2	A big meal of cliches that the talented cast generally chokes on .
+__label__2	The story has little wit and no surprises .
+__label__2	The Merchant-Ivory team continues to systematically destroy everything we hold dear about cinema , only now it 's begun to split up so that it can do even more damage .
+__label__1	What should have been a cutting Hollywood satire is instead about as fresh as last week 's issue of Variety .
+__label__1	Hey everybody , wanna watch a movie in which a guy dressed as a children 's party clown gets violently gang-raped ?
+__label__3	I did n't think so .
+__label__2	A little more intensity and a little less charm would have saved this film a world of hurt .
+__label__1	( T ) his slop does n't even have potential as a cult film , as it 's too loud to shout insults at the screen .
+__label__1	The movie 's plot is almost entirely witless and inane , carrying every gag two or three times beyond its limit to sustain a laugh .
+__label__2	... may work as an addictive guilty pleasure but the material never overcomes its questionable satirical ambivalence .
+__label__3	This Scarlet 's letter is A. . .
+__label__2	as in aimless , arduous , and arbitrary .
+__label__2	Plays like a glossy melodrama that occasionally verges on camp .
+__label__3	The central character is n't complex enough to hold our interest .
+__label__3	A modestly comic , modestly action-oriented World War II adventure that , in terms of authenticity , is one of those films that requires the enemy to never shoot straight .
+__label__2	A puppy dog so desperate for attention it nearly breaks its little neck trying to perform entertaining tricks .
+__label__2	Just about all of the film is confusing on one level or another , making Ararat far more demanding than it needs to be .
+__label__2	A little less extreme than in the past , with longer exposition sequences between them , and with fewer gags to break the tedium .
+__label__2	There 's a heavy stench of ` been there , done that ' hanging over the film .
+__label__3	It 's everything you 'd expect -- but nothing more .
+__label__2	The biggest problem with Satin Rouge is Lilia herself .
+__label__3	She 's a cipher , played by an actress who smiles and frowns but does n't reveal an inner life .
+__label__4	A quaint , romanticized rendering .
+__label__3	What with the incessant lounge music playing in the film 's background , you may mistake Love Liza for an Adam Sandler Chanukah song .
+__label__3	The movie 's heavy-handed screenplay navigates a fast fade into pomposity and pretentiousness .
+__label__2	A potentially good comic premise and excellent cast are terribly wasted .
+__label__2	Woody Allen used to ridicule movies like Hollywood Ending .
+__label__3	Now he makes them .
+__label__3	She 's not yet an actress , not quite a singer ...
+__label__3	Not a bad premise , but the execution is lackluster at best .
+__label__2	Been there done that .
+__label__2	There is only so much baked cardboard I need to chew .
+__label__2	A movie like The Guys is why film criticism can be considered work .
+__label__3	Schnitzler 's film has a great hook , some clever bits and well-drawn , if standard issue , characters , but is still only partly satisfying .
+__label__2	Even if it made its original release date last fall , it would 've reeked of a been-there , done-that sameness .
+__label__3	Only two-fifths of a satisfying movie experience .
+__label__1	A loud , ugly , irritating movie without any of its satirical salvos hitting a discernible target .
+__label__1	A movie version of a paint-by-numbers picture .
+__label__2	We can tell what it is supposed to be , but ca n't really call it a work of art .
+__label__3	It 's a brilliant , honest performance by Nicholson , but the film is an agonizing bore except when the fantastic Kathy Bates turns up .
+__label__4	Bravado Kathy !
+__label__2	... Liotta is put in an impossible spot because his character 's deceptions ultimately undo him and the believability of the entire scenario .
+__label__2	Too bad .
+__label__3	You can thank me for this .
+__label__3	I saw Juwanna Mann so you do n't have to .
+__label__1	Unfunny and lacking any sense of commitment to or affection for its characters , the Reginald Hudlin comedy relies on toilet humor , ethnic slurs .
+__label__3	Basically , it 's pretty but dumb .
+__label__2	This romantic/comedy asks the question how much souvlaki can you take before indigestion sets in .
+__label__2	Squandering his opportunity to make absurdist observations , Burns gets caught up in the rush of slapstick thoroughfare .
+__label__3	There 's a neat twist , subtly rendered , that could have wrapped things up at 80 minutes , but Kang tacks on three or four more endings .
+__label__3	Reeboir varies between a sweet smile and an angry bark , while Said attempts to wear down possible pupils through repetition .
+__label__2	It has no affect on the Kurds , but it wore me down .
+__label__1	The actors improvise and scream their way around this movie directionless , lacking any of the rollicking dark humor so necessary to make this kind of idea work on screen .
+__label__1	Co-writer/director Jonathan Parker 's attempts to fashion a Brazil-like , hyper-real satire fall dreadfully short .
+__label__3	If this silly little cartoon can inspire a few kids not to grow up to be greedy bastards , more power to it .
+__label__2	A superfluous sequel ... plagued by that old familiar feeling of ` let 's get this thing over with ' : Everyone has shown up at the appointed time and place , but visible enthusiasm is mighty hard to find .
+__label__1	If there 's a heaven for bad movies , Deuces Wild is on its way .
+__label__2	Comes off like a bad imitation of the Bard .
+__label__1	What 's missing in Murder by Numbers is any real psychological grounding for the teens ' deviant behaviour .
+__label__3	Being latently gay and liking to read are hardly enough .
+__label__2	An uninspired preachy and clichéd war film .
+__label__1	Horrendously amateurish filmmaking that is plainly dull and visually ugly when it is n't incomprehensible .
+__label__2	A movie that harps on media-constructed ` issues ' like whether compromise is the death of self ... this Orgasm ( wo n't be an ) exceedingly memorable one for most people .
+__label__3	Slackers ' jokey approach to college education is disappointingly simplistic -- the film 's biggest problem -- and there are no unforgettably stupid stunts or uproariously rude lines of dialogue to remember it by .
+__label__2	If Festival in Cannes nails hard - boiled Hollywood argot with a bracingly nasty accuracy , much about the film , including some of its casting , is frustratingly unconvincing .
+__label__2	The movie is too impressed with its own solemn insights to work up much entertainment value .
+__label__2	I have n't seen such self-amused trash since Freddy Got Fingered .
+__label__2	Little more than a well-mounted history lesson .
+__label__1	Rob Schneider 's infantile cross-dressing routines fill The Hot Chick , the latest gimmick from this unimaginative comedian .
+__label__1	A horrible , 99-minute stink bomb .
+__label__2	The film is weighed down by supporting characters who are either too goodly , wise and knowing or downright comically evil .
+__label__1	The film is so bad it does n't improve upon the experience of staring at a blank screen .
+__label__1	Sheridan 's take on the author 's schoolboy memoir ... is a rather toothless take on a hard young life .
+__label__1	It jumps around with little logic or continuity , presenting backstage bytes of information that never amount to a satisfying complete picture of this particular , anciently demanding métier .
+__label__3	How I Killed My Father is one of those art house films that makes you feel like you 're watching an iceberg melt -- only it never melts .
+__label__2	When it comes to the battle of Hollywood vs. Woo , it looks like Woo 's a P.O.W.
+__label__3	There are a few chuckles , but not a single gag sequence that really scores , and the stars seem to be in two different movies .
+__label__2	The Chateau has one very funny joke and a few other decent ones , but all it amounts to is a mildly funny , sometimes tedious , ultimately insignificant film .
+__label__1	It 's dull , spiritless , silly and monotonous : an ultra-loud blast of pointless mayhem , going nowhere fast .
+__label__4	The mushy finale turns John Q into a movie-of-the-week tearjerker .
+__label__2	Content merely to lionize its title character and exploit his anger - all for easy sanctimony , formulaic thrills and a ham-fisted sermon on the need for national health insurance .
+__label__2	The movie turns out to be ( Assayas ' ) homage to the Gallic ` tradition of quality , ' in all its fusty squareness .
+__label__2	Its message has merit and , in the hands of a brutally honest individual like Prophet Jack , might have made a point or two regarding life .
+__label__2	( Seems ) even more uselessly redundant and shamelessly money-grubbing than most third-rate horror sequels .
+__label__1	It 's hard to imagine that even very small children will be impressed by this tired retread .
+__label__2	Neither as scary-funny as Tremors nor demented-funny as Starship Troopers , the movie is n't tough to take as long as you 've paid a matinee price .
+__label__2	If swimfan does catch on , it may be because teens are looking for something to make them laugh .
+__label__3	What might 've been an exhilarating exploration of an odd love triangle becomes a sprawl of uncoordinated vectors .
+__label__2	The Master of Disguise may have made a great Saturday Night Live sketch , but a great movie it is not .
+__label__1	It 's quite an achievement to set and shoot a movie at the Cannes Film Festival and yet fail to capture its visual appeal or its atmosphere .
+__label__1	Boll uses a lot of quick cutting and blurry step-printing to goose things up , but dopey dialogue and sometimes inadequate performances kill the effect .
+__label__1	It 's always disappointing when a documentary fails to live up to -- or offer any new insight into -- its chosen topic .
+__label__2	Unfortunately , that 's precisely what Arthur Dong 's Family Fundamentals does .
+__label__3	Has the marks of a septuagenarian ; it 's a crusty treatment of a clever gimmick .
+__label__2	Like a medium-grade network sitcom -- mostly inoffensive , fitfully amusing , but ultimately so weightless that a decent draft in the auditorium might blow it off the screen .
+__label__2	Something must have been lost in the translation .
+__label__2	Becomes the last thing you would expect from a film with this title or indeed from any Plympton film : boring .
+__label__2	In the end , the film feels homogenized and a bit contrived , as if we 're looking back at a tattered and ugly past with rose-tinted glasses .
+__label__2	Chan 's stunts are limited and so embellished by editing that there 's really not much of a sense of action or even action-comedy .
+__label__2	Rock 's stand-up magic wanes .
+__label__5	Hopkins , squarely fills the screen .
+__label__2	Action - mechanical .
+__label__3	`` The Tuxedo '' should have been the vehicle for Chan that `` The Mask '' was for Jim Carrey .
+__label__4	Alas , it 's the man that makes the clothes .
+__label__2	For casual moviegoers who stumble into Rules expecting a slice of American Pie hijinks starring the kid from Dawson 's Creek , they 'll probably run out screaming .
+__label__2	The biggest problem I have ( other than the very sluggish pace ) is we never really see her Esther blossom as an actress , even though her talent is supposed to be growing .
+__label__3	What puzzles me is the lack of emphasis on music in Britney Spears ' first movie .
+__label__2	Plot , characters , drama , emotions , ideas -- all are irrelevant to the experience of seeing The Scorpion King .
+__label__4	City by the Sea is a gritty police thriller with all the dysfunctional family dynamics one could wish for .
+__label__2	But how it washed out despite all of that is the project 's prime mystery .
+__label__2	Whatever the movie 's sentimental , hypocritical lessons about sexism , its true colors come out in various wet T-shirt and shower scenes .
+__label__3	As a hybrid teen thriller and murder mystery , Murder by Numbers fits the profile too closely .
+__label__3	There ai n't a lot more painful than an unfunny movie that thinks it 's hilarious .
+__label__4	I enjoyed the movie in a superficial way , while never sure what its purpose was .
+__label__2	What a pity ... that the material is so second-rate .
+__label__2	Does n't deliver a great story , nor is the action as gripping as in past Seagal films .
+__label__1	The kind of film that leaves you scratching your head in amazement over the fact that so many talented people could participate in such an ill-advised and poorly executed idea .
+__label__4	Nicks refuses to let Slackers be seen as just another teen movie , which means he can be forgiven for frequently pandering to fans of the gross-out comedy .
+__label__1	Nothing about the film -- with the possible exception of Elizabeth Hurley 's breasts -- is authentic .
+__label__3	Amid the cliché and foreshadowing , Cage manages a degree of casual realism ... that is routinely dynamited by Blethyn .
+__label__2	Mostly , Shafer and co-writer Gregory Hinton lack a strong-minded viewpoint , or a sense of humor .
+__label__2	No cliche escapes the perfervid treatment of gang warfare called ces Wild .
+__label__2	Eddie Murphy and Owen Wilson have a cute partnership in I Spy , but the movie around them is so often nearly nothing that their charm does n't do a load of good .
+__label__2	Strictly a ` guy 's film ' in the worst sense of the expression .
+__label__2	There 's some good material in their story about a retail clerk wanting more out of life , but the movie too often spins its wheels with familiar situations and repetitive scenes .
+__label__2	It 's a lot to ask people to sit still for two hours and change watching such a character , especially when rendered in as flat and impassive a manner as Phoenix 's .
+__label__2	There 's something fishy about a seasonal holiday kids ' movie ... that derives its moment of most convincing emotional gravity from a scene where Santa gives gifts to grownups .
+__label__2	We 're left with a story that tries to grab us , only to keep letting go at all the wrong moments .
+__label__1	Like many such biographical melodramas , it suffers from the awkwardness that results from adhering to the messiness of true stories .
+__label__1	There is nothing redeeming about this movie .
+__label__2	The film has ( its ) moments , but they are few and far between .
+__label__1	I was trying to decide what annoyed me most about God is Great ... I 'm Not , and then I realized that I just did n't care .
+__label__1	Derailed by bad writing and possibly also by some of that extensive post-production reworking to aim the film at young males in the throes of their first full flush of testosterone .
+__label__3	Deserves high marks for political courage but barely gets by on its artistic merits .
+__label__2	... comes alive only when it switches gears to the sentimental .
+__label__2	Brosnan 's finest non-Bondish performance yet fails to overcome the film 's manipulative sentimentality and annoying stereotypes .
+__label__4	A film that will be best appreciated by those willing to endure its extremely languorous rhythms , Waiting for Happiness is ultimately thoughtful without having much dramatic impact .
+__label__2	To me , it sounds like a cruel deception carried out by men of marginal intelligence , with reactionary ideas about women and a total lack of empathy .
+__label__3	Tsai may be ploughing the same furrow once too often .
+__label__2	Flashy gadgets and whirling fight sequences may look cool , but they ca n't distract from the flawed support structure holding Equilibrium up .
+__label__2	ZigZag might have been richer and more observant if it were less densely plotted .
+__label__2	How can such a cold movie claim to express warmth and longing ?
+__label__2	In truth , it has all the heart of a porno flick ( but none of the sheer lust ) .
+__label__2	Nicks and Steinberg match their own creations for pure venality -- that 's giving it the old college try .
+__label__2	Episode II -- Attack of the Clones is a technological exercise that lacks juice and delight .
+__label__2	The problem with all of this : It 's not really funny .
+__label__2	( Denis ' ) bare-bones narrative more closely resembles an outline for a '70s exploitation picture than the finished product .
+__label__2	Wanders all over the map thematically and stylistically , and borrows heavily from Lynch , Jeunet , and von Trier while failing to find a spark of its own .
+__label__3	Viewing this underdramatized but overstated film is like watching a transcript of a therapy session brought to humdrum life by some Freudian puppet .
+__label__2	Overall tomfoolery like this is a matter of taste .
+__label__2	The mantra behind the project seems to have been ` it 's just a kids ' flick . '
+__label__2	Translation : ` We do n't need to try very hard . '
+__label__1	In all the annals of the movies , few films have been this odd , inexplicable and unpleasant .
+__label__2	It takes a really long , slow and dreary time to dope out what TUCK EVERLASTING is about .
+__label__3	So here it is : It 's about a family of sour immortals .
+__label__2	an essentially awkward version of the lightweight female empowerment picture we 've been watching for decades
+__label__2	The author 's devotees will probably find it fascinating ; others may find it baffling .
+__label__2	Writer-director Walter Hill and co-writer David Giler try to create characters out of the obvious cliches , but wind up using them as punching bags .
+__label__1	There 's a scientific law to be discerned here that producers would be well to heed : Mediocre movies start to drag as soon as the action speeds up ; when the explosions start , they fall to pieces .
+__label__2	A cockeyed shot all the way .
+__label__2	Lush and beautifully photographed ( somebody suggested the stills might make a nice coffee table book ) , but ultimately you 'll leave the theater wondering why these people mattered .
+__label__1	Unfortunately , One Hour Photo lives down to its title .
+__label__1	Thanks largely to Williams , all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film .
+__label__1	Cold , Sterile And Lacking Any Color Or Warmth .
+__label__2	The film is undone by anachronistic quick edits and occasional jarring glimpses of a modern theater audience watching the events unfold .
+__label__2	Seems like someone going through the motions .
+__label__2	For a film about explosions and death and spies , `` Ballistic : Ecks vs. Sever '' seems as safe as a children 's film .
+__label__2	Well , in some of those , the mother deer even dies .
+__label__3	Wallace gets a bit heavy handed with his message at times , and has a visual flair that waxes poetic far too much for our taste .
+__label__3	Impostor does n't do much with its template , despite a remarkably strong cast .
+__label__3	Wraps itself in the guise of a dark and quirky comedy , but it is n't as quirky as it thinks it is and its comedy is generally mean-spirited .
+__label__2	Choppy , overlong documentary about ` The Lifestyle . '
+__label__1	One sloughs one 's way through the mire of this alleged psychological thriller in search of purpose or even a plot .
+__label__2	A film which presses familiar Herzog tropes into the service of a limpid and conventional historical fiction , when really what we demand of the director is to be mesmerised .
+__label__3	It 's a fanboy ` what if ? '
+__label__4	brought to life on the big screen .
+__label__2	The story itself is actually quite vapid .
+__label__2	It 's a hellish , numbing experience to watch , and it does n't offer any insights that have n't been thoroughly debated in the media already , back in the Dahmer heyday of the mid - '90s .
+__label__3	Wait for pay per view or rental but do n't dismiss BarberShop out of hand .
+__label__2	A few zingers aside , the writing is indifferent , and Jordan Brady 's direction is prosaic .
+__label__2	Each scene drags , underscoring the obvious , and sentiment is slathered on top .
+__label__1	Would 've been nice if the screenwriters had trusted audiences to understand a complex story , and left off the film 's predictable denouement .
+__label__3	Then Nadia 's birthday might not have been such a bad day after all .
+__label__3	One of those staggeringly well-produced , joylessly extravagant pictures that keep whooshing you from one visual marvel to the next , hastily , emptily .
+__label__1	Nair just does n't have the necessary self-control to guide a loose , poorly structured film through the pitfalls of incoherence and redundancy .
+__label__4	Enthusiastically taking up the current teen movie concern with bodily functions , Walt Becker 's film pushes all the demographically appropriate comic buttons .
+__label__5	It 's the funniest American comedy since Graffiti Bridge .
+__label__2	That neither protagonist has a distinguishable condition hardly matters because both are just actory concoctions , defined by childlike dimness and a handful of quirks .
+__label__1	What starts off as a possible Argentine American Beauty reeks like a room stacked with pungent flowers .
+__label__1	The project 's filmmakers forgot to include anything even halfway scary as they poorly rejigger Fatal Attraction into a high school setting .
+__label__2	In old-fashioned screenwriting parlance , Ms. Shreve 's novel proved too difficult a text to ` lick , ' despite the efforts of a first-rate cast .
+__label__2	Solondz may well be the only one laughing at his own joke
+__label__1	Stitch is a bad mannered , ugly and destructive little **** .
+__label__1	No cute factor here ... Not that I mind ugly ; the problem is he has no character , loveable or otherwise .
+__label__1	Deep down , I realized the harsh reality of my situation : I would leave the theater with a lower I.Q. than when I had entered .
+__label__3	A really funny fifteen-minute short stretched beyond its limits to fill an almost feature-length film .
+__label__1	Aside from the fact that the film idiotically uses the website feardotcom.com or the improperly hammy performance from poor Stephen Rea , the film gets added disdain for the fact that it is nearly impossible to look at or understand .
+__label__2	It is bad , but certainly not without merit as entertainment .
+__label__1	For its 100 minutes running time , you 'll wait in vain for a movie to happen .
+__label__1	A work that lacks both a purpose and a strong pulse .
+__label__4	A faster paced family flick .
+__label__2	Upper Teens may get cynical .
+__label__4	Smaller numbered kidlets will enjoy .
+__label__2	While this film has an ` A ' list cast and some strong supporting players , the tale -- like its central figure , Vivi -- is just a little bit hard to love .
+__label__1	It 's a road-trip drama with too many wrong turns .
+__label__2	Most fish stories are a little peculiar , but this is one that should be thrown back in the river .
+__label__3	It 's all gratuitous before long , as if Schwentke were fulfilling a gross-out quota for an anticipated audience demographic instead of shaping the material to fit the story .
+__label__3	`` I blame all men for war , '' ( the warden 's daughter ) tells her father .
+__label__2	The movie is about as deep as that sentiment .
+__label__3	It 's fitfully funny but never really takes off .
+__label__2	I 've seen some bad singer-turned actors , but Lil Bow Wow takes the cake .
+__label__4	By halfway through this picture I was beginning to hate it , and , of course , feeling guilty for it ... Then , miracle of miracles , the movie does a flip-flop .
+__label__3	For all the complications , it 's all surprisingly predictable .
+__label__3	It 's been 20 years since 48 Hrs .
+__label__4	made Eddie Murphy a movie star and the man has n't aged a day .
+__label__3	But his showboating wise-cracker stock persona sure is getting old .
+__label__3	If Deuces Wild had been tweaked up a notch it would have become a camp adventure , one of those movies that 's so bad it starts to become good .
+__label__2	But it was n't .
+__label__2	For a film about action , Ultimate X is the gabbiest giant-screen movie ever , bogging down in a barrage of hype .
+__label__2	... a low rate Annie featuring some kid who ca n't act , only echoes of Jordan , and weirdo actor Crispin Glover screwing things up old school .
+__label__1	It might not be 1970s animation , but everything else about it is straight from the Saturday morning cartoons -- a retread story , bad writing , and the same old silliness .
+__label__2	The picture seems uncertain whether it wants to be an acidic all-male All About Eve or a lush , swooning melodrama in the Intermezzo strain .
+__label__2	A nearly 21/2 hours , the film is way too indulgent .
+__label__2	Gorgeous to look at but insufferably tedious and turgid ... a curiously constricted epic .
+__label__3	It looks much more like a cartoon in the end than The Simpsons ever has .
+__label__2	With a tighter editorial process and firmer direction this material could work , especially since the actresses in the lead roles are all more than competent , but as is , Personal Velocity seems to be idling in neutral .
+__label__2	Does n't really add up to much .
+__label__2	It 's better suited for the history or biography channel , but there 's no arguing the tone of the movie - it leaves a bad taste in your mouth and questions on your mind .
+__label__2	An entertainment so in love with its overinflated mythology that it no longer recognizes the needs of moviegoers for real characters and compelling plots .
+__label__2	A prolonged extrusion of psychopathic pulp .
+__label__2	Borrows from other movies like it in the most ordinary and obvious fashion .
+__label__2	It 's surprisingly bland despite the heavy doses of weird performances and direction .
+__label__1	A chilly , remote , emotionally distant piece ... so dull that its tagline should be : ` In space , no one can hear you snore . '
+__label__2	The characters seem one-dimensional , and the film is superficial and will probably be of interest primarily to its target audience .
+__label__2	Sorvino makes the princess seem smug and cartoonish , and the film only really comes alive when poor Hermocrates and Leontine pathetically compare notes about their budding amours .
+__label__2	It 's like a drive-by .
+__label__2	You can drive right by it without noticing anything special , save for a few comic turns , intended and otherwise .
+__label__2	Everything -- even life on an aircraft carrier -- is sentimentalized .
+__label__1	This would-be ` James Bond for the Extreme Generation ' pic is one big , dumb action movie .
+__label__2	Stress ` dumb . '
+__label__3	The movie has generic virtues , and despite a lot of involved talent , seems done by the numbers .
+__label__2	When your subject is illusion versus reality , should n't the reality seem at least passably real ?
+__label__1	It 's a terrible movie in every regard , and utterly painful to watch .
+__label__1	This is rote spookiness , with nary an original idea ( or role , or edit , or score , or anything , really ) in sight , and the whole of the proceedings beg the question ` Why ? '
+__label__2	A fan film that for the uninitiated plays better on video with the sound turned down .
+__label__2	Too infuriatingly quirky and taken with its own style .
+__label__2	There 's a whole heap of nothing at the core of this slight coming-of-age/coming-out tale .
+__label__4	As much as I laughed throughout the movie , I can not mount a cogent defense of the film as entertainment , or even performance art , although the movie does leave you marveling at these guys ' superhuman capacity to withstand pain .
+__label__2	The type of dumbed-down exercise in stereotypes that gives the ( teen comedy ) genre a bad name .
+__label__1	Distinctly sub-par ... more likely to drown a viewer in boredom than to send any shivers down his spine .
+__label__1	Plays like a bad blend of an overripe episode of TV 's Dawson 's Creek and a recycled and dumbed-down version of Love Story .
+__label__2	Unless you come in to the film with a skateboard under your arm , you 're going to feel like you were n't invited to the party .
+__label__2	When the casting call for this movie went out , it must have read ` seeking anyone with acting ambition but no sense of pride or shame . '
+__label__2	Just is n't as weird as it ought to be .
+__label__2	A `` Home Alone '' film that is staged like `` Rosemary 's Baby , '' but is not as well-conceived as either of those films .
+__label__2	( Siegel ) and co-writers Lisa Bazadona and Grace Woodard have relied too much on convention in creating the characters who surround Frankie .
+__label__1	No film could possibly be more contemptuous of the single female population .
+__label__3	` Hey Arnold ! '
+__label__3	has some visual wit ... but little imagination elsewhere .
+__label__3	They 're going through the motions , but the zip is gone .
+__label__2	A sluggish pace and lack of genuine narrative hem the movie in every bit as much as life hems in the spirits of these young women .
+__label__1	A low-budget affair , Tadpole was shot on digital video , and the images often look smeary and blurry , to the point of distraction .
+__label__1	Then again , in a better movie , you might not have noticed .
+__label__3	It 's mindless junk like this that makes you appreciate original romantic comedies like Punch-Drunk Love .
+__label__2	The movie is like a year late for tapping into our reality tv obsession , and even tardier for exploiting the novelty of the `` webcast . ''
+__label__2	tale will be all too familiar for anyone who 's seen George Roy Hill 's 1973 film , `` The Sting . ''
+__label__2	Gets the look and the period trappings right , but it otherwise drowns in a sea of visual and verbal clichés .
+__label__4	It 's hard to quibble with a flick boasting this many genuine cackles , but Notorious C.H.O. still feels like a promising work-in-progress .
+__label__2	Anyone who wants to start writing screenplays can just follow the same blueprint from hundreds of other films , sell it to the highest bidder and walk away without anyone truly knowing your identity .
+__label__2	The problem with The Bread , My Sweet is that it 's far too sentimental .
+__label__3	A late-night cable sexploitation romp masquerading as a thriller about the ruthless social order that governs college cliques .
+__label__3	Falls short in explaining the music and its roots .
+__label__2	Never inspires more than an interested detachment .
+__label__1	What might have emerged as hilarious lunacy in the hands of Woody Allen or Mel Brooks ( at least during their '70s heyday ) comes across as lame and sophomoric in this debut indie feature .
+__label__2	Despite slick production values and director Roger Michell 's tick-tock pacing , the final effect is like having two guys yelling in your face for two hours .
+__label__2	Pretty much sucks , but has a funny moment or two .
+__label__3	They do a good job of painting this family dynamic for the audience but they tried to squeeze too many elements into the film .
+__label__2	A supernatural mystery that does n't know whether it wants to be a suspenseful horror movie or a weepy melodrama .
+__label__1	It ends up being neither , and fails at both endeavors .
+__label__2	Two badly interlocked stories drowned by all too clever complexity .
+__label__3	It is so earnest , so overwrought and so wildly implausible that it begs to be parodied .
+__label__2	These are textbook lives of quiet desperation .
+__label__3	Swimfan , like Fatal Attraction , eventually goes overboard with a loony melodramatic denouement in which a high school swimming pool substitutes for a bathtub .
+__label__2	Claims to sort the bad guys from the good , which is its essential problem .
+__label__1	Purposefully shocking in its eroticized gore , if unintentionally dull in its lack of poetic frissons .
+__label__2	Feels like pieces a bunch of other , better movies slapped together .
+__label__3	Almost everything about the film is unsettling , from the preposterous hairpiece worn by Lai 's villainous father to the endless action sequences .
+__label__2	Writer-director Randall Wallace has bitten off more than he or anyone else could chew , and his movie veers like a drunken driver through heavy traffic .
+__label__2	It follows the Blair Witch formula for an hour , in which we 're told something creepy and vague is in the works , and then it goes awry in the final 30 minutes .
+__label__1	One ca n't shake the feeling that Crossroads is nothing more than an hour-and-a-half-long commercial for Britney 's latest album .
